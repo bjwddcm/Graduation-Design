@@ -1,0 +1,4 @@
+deb http://mirrors.tuna.tsinghua.edu.cn/raspbian/raspbian/ blueseye main contribnon-freerpi
+deb-srchttp://mirrors.tuna.tsinghua.edu.cn/raspbian/raspbian/ blueseye main contribnon-freerpi
+deb http://mirrors.tuna.tsinghua.edu.cn/raspberrypi/ blueseye main ui
+deb-src http://mirrors.tuna.tsinghua.edu.cn/raspberrypi/ blueseye main ui
